@@ -1,4 +1,4 @@
-# First_Rest_api
+# RESTful_API
 "Node.js Express CRUD REST API for managing posts . Easily perform Create, Read, Update, and Delete operations."
 Certainly! Here's a sample GitHub repository description for your Node.js and Express REST API project:
 
