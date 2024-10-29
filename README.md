@@ -26,7 +26,7 @@ This repository houses a fully functional CRUD (Create, Read, Update, Delete) RE
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/node-express-crud-api.git
+   git clone https://github.com/Daxesh-Prajapati/RESTful_API-main
    ```
 
 2. Navigate into the project directory:
